@@ -1,4 +1,4 @@
-// Hi, I'm Turjoy Islam Omi! 👋
+
 
 const omi = {
   name: "Turjoy Islam Omi",
