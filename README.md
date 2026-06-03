@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Turjoy Islam Omi
 Mobile App Developer | Passionate about building clean, scalable, and user-friendly mobile experiences.
 
-// Hi, I'm Turjoy Islam Omi! 👋
-
 const omi = {
   name: "Turjoy Islam Omi",
   pronouns: ["he", "him"],
@@ -27,10 +25,11 @@ const omi = {
     "Supabase",
     "REST APIs"
   ],
-
+  
   technologies: {
+
     mobile: {
-      framework: ["Flutter"],
+     framework: ["Flutter"],
       stateManagement: ["Riverpod", "Provider", "BLOC"],
       architecture: ["Clean Architecture"]
     },
@@ -51,7 +50,7 @@ const omi = {
         "Cloud Run"
       ],
       local: ["Hive", "Shared Preferences", "SQLite"],
-      inMemory: []
+      
     },
 
     tools: [
@@ -74,23 +73,23 @@ const omi = {
       "WebSockets",
       "Socket.IO",
       "Firebase Realtime Database"
-    ]
-  },
-
-  currentFocus: [
+    ],
+    
+    currentFocus: [
     "Advanced Flutter Development",
     "Advanced Native Development",
     "Backend Development",
     "Scalable Mobile Applications"
-  ],
+    ],
 
-  goals: [
+    goals: [
     "Build production-ready apps",
     "Contribute to Open Source",
     "Work on impactful products"
-  ],
-
-  funFact: "I enjoy turning app ideas into clean, scalable, and user-friendly mobile experiences."
+    ],
+    
+    funFact: "I enjoy turning app ideas into clean, scalable, and user-friendly mobile experiences."
+  },
 };
 
 
