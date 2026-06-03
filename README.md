@@ -1,91 +1,101 @@
-
-
-const omi = {
-  name: "Turjoy Islam Omi",
+const anmol = {
+  name: "Anmol Pratap Singh",
   pronouns: ["he", "him"],
-  role: "Mobile App Developer",
-
-  languages: [
-    "Dart",
-    "JavaScript",
-    "TypeScript",
-    "JAVA",
-    "PHP",
-    "C++",
-    "C"
-  ],
-
+  languages: ["TypeScript", "JavaScript", "Python", "Dart"],
   askMeAbout: [
-    "Flutter",
-    "Native",
-    "Mobile App Development",
-    "Clean Architecture",
-    "Firebase",
-    "Supabase",
-    "REST APIs"
+    "web development",
+    "mobile app development",
+    "cloud architecture",
+    "generative AI",
+    "agentic systems",
+    "SaaS products",
+    "system design"
   ],
 
   technologies: {
-    mobile: {
-      framework: ["Flutter"],
-      stateManagement: ["Riverpod", "Provider", "BLOC"],
-      architecture: ["Clean Architecture"]
+    frontend: {
+      frameworks: ["React", "Next.js"],
+      styling: ["Tailwind CSS", "Sass", "Bootstrap"],
+      uiLibraries: [
+        "Material UI",
+        "Ant Design",
+        "Chakra UI",
+        "shadcn/ui"
+      ]
     },
 
     backend: {
       node: ["Node.js", "Express", "NestJS"],
-      baas: ["Firebase", "Supabase"]
+      python: ["Flask"]
+    },
+
+    mobile: {
+      crossPlatform: ["Flutter"]
+    },
+
+    devOps: {
+      tools: ["Docker", "GitHub Actions", "Nginx"],
+      practices: ["CI/CD", "Infrastructure as Code"]
+    },
+
+    cloud: {
+      aws: [
+        "EC2",
+        "S3",
+        "RDS",
+        "Lambda",
+        "Fargate",
+        "CloudWatch"
+      ],
+      gcp: [
+        "Compute Engine",
+        "Cloud Run",
+        "Cloud Functions",
+        "Cloud Storage",
+        "Firestore",
+        "BigQuery"
+      ]
     },
 
     databases: {
-      relational: ["Mysql"],
+      relational: ["PostgreSQL"],
       nosql: ["MongoDB", "Firebase Realtime DB", "Firestore"],
-      cloud: [
-        "Cloud Firestore",
-        "Supabase Database",
-        "Cloud Storage",
-        "Firestore",
-        "Cloud Run"
-      ],
-      local: ["Hive", "Shared Preferences", "SQLite"],
       inMemory: ["Redis"]
     },
-
-    tools: [
-      "Git",
-      "GitHub",
-      "VS Code",
-      "VS Codium",
-      "Android Studio",
-      "Linux"
-    ],
-
-    integrations: [
-      "REST APIs",
-      "JSON Serialization",
-      "Push Notifications"
-    ],
 
     realtimeAndAPIs: [
       "REST APIs",
       "WebSockets",
-      "Socket.IO",
-      "Firebase Realtime Database"
-    ]
+      "Socket.IO"
+    ],
+
+    ai: {
+      generativeAI: [
+        "LLM integration",
+        "Prompt engineering",
+        "Vector databases",
+        "AI agents",
+        "Workflow automation"
+      ],
+      architectures: [
+        "agentic architecture",
+        "tool-augmented agents",
+        "multi-agent systems"
+      ],
+      models: ["OpenAI", "Gemini", "Llama"]
+    }
   },
 
-  currentFocus: [
-    "Advanced Flutter Development",
-    "Advanced Native Development",
-    "Backend Development",
-    "Scalable Mobile Applications"
-  ],
-
-  goals: [
-    "Build production-ready apps",
-    "Contribute to Open Source",
-    "Work on impactful products"
-  ],
-
-  funFact: "I enjoy turning app ideas into clean, scalable, and user-friendly mobile experiences."
+  architecture: {
+    frontend: ["SPA", "SSR"],
+    backend: ["monolith", "microservices", "serverless"],
+    cloudPatterns: [
+      "event-driven",
+      "agentic systems",
+      "scalable SaaS"
+    ],
+    data: ["relational", "nosql", "in-memory"]
+  },
+currentFocus:"Building scalable AI-first SaaS products with agentic architectures",
+funFact: "Most bugs disappear after a coffee and a clean commit history"
 };
