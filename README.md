@@ -2,6 +2,7 @@
 Mobile App Developer | Passionate about building clean, scalable, and user-friendly mobile experiences.
 
 const omi = {
+
   name: "Turjoy Islam Omi",
   pronouns: ["he", "him"],
   role: "Mobile App Developer",
