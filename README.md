@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Turjoy Islam Omi
 Mobile App Developer | Passionate about building clean, scalable, and user-friendly mobile experiences.
 
+![Turjoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=turjoy&show_icons=true&theme=radical)
+
+
+
 ```javascript
 const omi = {
 
