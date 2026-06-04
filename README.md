@@ -8,6 +8,7 @@ const omi = {
   role: "Mobile App Developer",
 
   languages: [
+  
     "Dart",
     "JavaScript",
     "TypeScript",
@@ -18,6 +19,7 @@ const omi = {
   ],
 
   askMeAbout: [
+  
     "Flutter",
     "Native",
     "Mobile App Development",
@@ -90,7 +92,7 @@ const omi = {
     ],
     
     funFact: "I enjoy turning app ideas into clean, scalable, and user-friendly mobile experiences."
-  },
+  }
 };
 
 
