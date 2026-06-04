@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Turjoy Islam Omi
 Mobile App Developer | Passionate about building clean, scalable, and user-friendly mobile experiences.
 
+```javascript
 const omi = {
 
   name: "Turjoy Islam Omi",
@@ -8,7 +9,6 @@ const omi = {
   role: "Mobile App Developer",
 
   languages: [
-  
     "Dart",
     "JavaScript",
     "TypeScript",
@@ -19,7 +19,6 @@ const omi = {
   ],
 
   askMeAbout: [
-  
     "Flutter",
     "Native",
     "Mobile App Development",
