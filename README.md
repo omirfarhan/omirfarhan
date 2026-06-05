@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Turjoy Islam Omi
 Mobile App Developer | Passionate about building clean, scalable, and user-friendly mobile experiences.
 
-https://github-readme-stats.vercel.app/api/wakatime?username=omirfarhan
 
 ```javascript
 const omi = {
@@ -95,5 +94,11 @@ const omi = {
     funFact: "I enjoy turning app ideas into clean, scalable, and user-friendly mobile experiences."
   }
 };
+```
+
+<p align="center">
+  <i>Code is the art of turning ideas into experiences that people can use, trust, and love! ❤️</i><br/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C853,100:00E5FF&height=4&section=header"/>
+</p>
 
 
