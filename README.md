@@ -101,4 +101,11 @@ const omi = {
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C853,100:00E5FF&height=4&section=header"/>
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=omirfarhan&label=Profile%20Views&color=0A84D0&style=flat-square" />
+  <br><br>
+  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg?style=flat-square" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark" />
+</p>
 
