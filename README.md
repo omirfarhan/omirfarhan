@@ -109,4 +109,5 @@ const omi = {
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark" />
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/fa5ac745-76aa-4a65-913f-69db0de902ad.svg)](https://wakatime.com/@fa5ac745-76aa-4a65-913f-69db0de902ad)
+[![Code Time](https://wakatime.com/badge/user/fa5ac745-76aa-4a65-913f-69db0de902ad.svg)](https://wakatime.com/@fa5ac745-76aa-4a65-913f-69db0de902ad)
+
