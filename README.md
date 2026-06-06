@@ -103,11 +103,6 @@ const omi = {
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=omirfarhan&label=Profile%20Views&color=0A84D0&style=flat-square" />
-  <br><br>
-  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg?style=flat-square" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark" />
 </p>
 
 [![Code Time](https://wakatime.com/badge/user/fa5ac745-76aa-4a65-913f-69db0de902ad.svg)](https://wakatime.com/@fa5ac745-76aa-4a65-913f-69db0de902ad)
-
