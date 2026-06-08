@@ -1,5 +1,33 @@
 # 👋 Hi, I'm Turjoy Islam Omi
-Mobile App Developer | Passionate about building clean, scalable, and user-friendly mobile experiences.
+<p align="left">
+  <a href="https://facebook.com/yourusername">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/turjoy-islam-omi-6b7b1424a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+  
+  <a href="https://leetcode.com/yourusername">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
+  
+  <a href="https://www.codewars.com/users/yourusername">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white" />
+  </a>
+</p>
 
 
 ```javascript
