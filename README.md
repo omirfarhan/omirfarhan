@@ -1,4 +1,10 @@
-# 👋 Hi, I'm Turjoy Islam Omi
+<p align="center">
+  Hi there! 🚀 <br/>
+  I'm Turjoy Islam Omi 
+</p>
+
+
+
 <p align="left">
   <a href="https://facebook.com/yourusername">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
