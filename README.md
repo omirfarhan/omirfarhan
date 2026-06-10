@@ -32,6 +32,38 @@
   </a>
 </p>
 
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omirfarhan&theme=radical)](https://github.com/omirfarhan)
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/omirfarhan">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omirfarhan&theme=radical" />
+</a>
+<a href="https://github.com/omirfarhan">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omirfarhan&theme=radical" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/omirfarhan">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omirfarhan&theme=radical" />
+</a>
+<a href="https://github.com/omirfarhan">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omirfarhan&theme=radical" />
+</a>
+
+</div>
+
+
+
+
+## 🌟 Get to Know Me
 
 ```javascript
 const omi = {
