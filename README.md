@@ -6,7 +6,7 @@
 
 
 <p align="left">
-  <a href="https://facebook.com/yourusername">
+  <a href="[https://facebook.com/yourusername](https://www.facebook.com/ome.r.farhan.182)">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>
   
