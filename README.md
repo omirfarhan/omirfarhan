@@ -1,12 +1,13 @@
 <p align="center">
   Hi there! 🚀 <br/>
-  I'm Turjoy Islam Omi 
+  I'm Turjoy Islam Omi 😊
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C853,100:00E5FF&height=2&section=footer"/>
 </p>
 
 
 
 <p align="left">
-  <a href="[https://facebook.com/yourusername](https://www.facebook.com/ome.r.farhan.182)">
+  <a href="https://www.facebook.com/ome.r.farhan.182">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>
   
@@ -14,11 +15,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:omirfarhan1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="https://instagram.com/yourusername">
+  <a href="https://instagram.com/turjoyislamomi">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
   
@@ -26,11 +27,11 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
   
-  <a href="https://leetcode.com/yourusername">
+  <a href="https://leetcode.com/turjoyislamomi">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
   
-  <a href="https://www.codewars.com/users/yourusername">
+  <a href="https://www.codewars.com/users/omirfarhan">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white" />
   </a>
 </p>
