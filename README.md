@@ -5,6 +5,9 @@
 </p>
 
 <p align="left">
+  
+  <img src="https://komarev.com/ghpvc/?username=omirfarhan&label=Profile%20Views&color=0A84D0&style=flat-square" />
+
   <a href="https://www.facebook.com/ome.r.farhan.182">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>
@@ -156,8 +159,6 @@ const omi = {
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C853,100:00E5FF&height=4&section=header"/>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=omirfarhan&label=Profile%20Views&color=0A84D0&style=flat-square" />
-</p>
 
-[![Code Time](https://wakatime.com/badge/user/fa5ac745-76aa-4a65-913f-69db0de902ad.svg)](https://wakatime.com/@fa5ac745-76aa-4a65-913f-69db0de902ad)
+
+
